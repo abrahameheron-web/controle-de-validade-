@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Controle de Validade">
+  <rect width="512" height="512" fill="#176B50"/>
+  <path d="M144 145v-27m224 27v-27M130 176h252v218H130z" fill="none" stroke="#F6F7F3" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M132 224h248" fill="none" stroke="#F6F7F3" stroke-width="20" stroke-linecap="round"/>
+  <path d="m207 310 37 38 78-83" fill="none" stroke="#F6F7F3" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
